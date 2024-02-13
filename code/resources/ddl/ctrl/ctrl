@@ -1,0 +1,14 @@
+[
+    {
+        "name": "step_name",
+        "type": "STRING"
+    },
+    {
+        "name": "status",
+        "type": "STRING"
+    },
+    {
+        "name": "execution_dt",
+        "type": "DATETIME"
+    }
+]
